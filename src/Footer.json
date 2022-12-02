@@ -1,0 +1,94 @@
+[{
+        "title": "Get to Know Us",
+        "textGroup": [{
+                "text": "Careers"
+            },
+            {
+                "text": "Blog"
+            },
+            {
+                "text": "About Amazon"
+            },
+            {
+                "text": "Investor Relations"
+            },
+            {
+                "text": "Amazon Devices"
+            },
+            {
+                "text": "Amazon Science"
+            }
+        ]
+    },
+    {
+        "title": "Make Money with Us",
+        "textGroup": [{
+                "text": "Sell products on Amazon"
+            },
+            {
+                "text": "Sell on Amazon Business"
+            },
+            {
+                "text": "Sell apps on Amazon"
+            },
+            {
+                "text": " Become an Affiliate"
+            },
+            {
+                "text": "Advertise Your Products"
+            },
+            {
+                "text": "Self-Publish with Us"
+            },
+            {
+                "text": "Host an Amazon Hub"
+            },
+            {
+                "text": "› See More Make Money with Us"
+            }
+        ]
+    },
+    {
+        "title": "Amazon Payment Products",
+        "textGroup": [{
+                "text": "Amazon Business Card"
+            },
+            {
+                "text": "Shop with Points"
+            },
+            {
+                "text": "Reload Your Balance"
+            },
+            {
+                "text": "Amazon Currency Converter"
+            }
+        ]
+    },
+    {
+        "title": "Let Us Help You",
+        "textGroup": [{
+                "text": "Amazon and COVID-19"
+            },
+            {
+                "text": "Your Account"
+            },
+            {
+                "text": "Your Orders"
+            },
+            {
+                "text": "Shipping Rates & Policies"
+            }, {
+                "text": "Returns & Replacements"
+            },
+            {
+                "text": "Manage Your Content and Devices"
+            },
+            {
+                "text": "Amazon Assistant"
+            },
+            {
+                "text": "Help"
+            }
+        ]
+    }
+]

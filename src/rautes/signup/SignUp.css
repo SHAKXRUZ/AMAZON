@@ -1,0 +1,113 @@
+.subscribe_box-signup {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.signup-box {
+    max-width: 500px;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+
+.login-logo {
+    background-position: -5px -130px;
+    max-height: 30%;
+    max-width: 30%;
+    object-fit: cover;
+}
+
+.signup-registr-box {
+    width: 80%;
+    margin: auto;
+    padding: 14px 0;
+}
+
+.introduction-signup {
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+.form-signup>div {
+    margin: 20px 0px;
+}
+
+.form-signup input {
+    outline: none;
+    width: 99%;
+    padding: 10px 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.form-signup label {
+    font-weight: 600;
+}
+
+.form-signup input:focus {
+    box-shadow: 0px 0px 10px orangered;
+    border: 1px solid orangered;
+}
+
+.warning-box-signup {
+    margin-top: 5px;
+    display: flex;
+}
+
+.btn-create-account-signup {
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 5px;
+    border: none;
+    font-weight: 400;
+    font-size: 22px;
+    cursor: pointer;
+    background-color: rgb(255, 200, 97);
+}
+
+.btn-create-account-signup:hover {
+    background-color: rgb(255, 192, 75);
+}
+
+.btn-create-account-signup:focus {
+    background-color: rgb(211, 211, 211);
+    box-shadow: 0px 0px 10px orangered;
+}
+
+.signup-conditions-text {
+    margin-top: 30px;
+}
+
+.condition-text-signup-link {
+    color: dodgerblue;
+
+}
+
+.condition-box-signup-link:hover {
+    color: orangered;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.moreinfo-box-signup {
+    display: flex;
+    margin-top: 25px;
+    background-color: rgb(223, 223, 223);
+    border-top: 0.5px solid gray;
+    align-items: center;
+}
+
+.signin-link-account {
+    color: dodgerblue;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.signin-link-account:hover {
+    color: orangered;
+    cursor: pointer;
+    text-decoration: underline;
+}

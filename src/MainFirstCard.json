@@ -1,0 +1,227 @@
+[{
+    "title": "Health & Personal Care",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2022/February/DashboardCards/GW_CONS_AUS_HPC_HPCEssentials_CatCard_Desktop1x._SY304_CB627424361_.jpg",
+    "linkTitle": "Shop now"
+  },
+  {
+    "title": "Shop by Category",
+    "cardImages": [{
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/February/Dashboard/computer120x._SY85_CB468850970_.jpg",
+        "subtitle": "Computers & Accessories"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/August/DashboardCard/PS4_120X._SY85_CB438749318_.jpg",
+        "subtitle": "Video Games"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/February/Dashboard/Baby120X._SY85_CB468850882_.jpg",
+        "subtitle": "Baby"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/February/Dashboard/Toys120X._SY85_CB468851693_.jpg",
+        "subtitle": "Toys & Games"
+      }
+    ],
+    "linkTitle": "Shop now"
+  },
+
+  {
+    "title": "Gaming accessories",
+    "cardImages": [{
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Headset_1x._SY116_CB667159060_.jpg",
+        "subtitle": "Headsets"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Keyboard_1x._SY116_CB667159063_.jpg",
+        "subtitle": "Keyboards"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mouse_1x._SY116_CB667159063_.jpg",
+        "subtitle": "Computer mice"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Chair_1x._SY116_CB667159060_.jpg",
+        "subtitle": "Chairs"
+      }
+    ],
+    "linkTitle": "See more"
+  },
+
+  {
+    "title": "For the best",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/October/Fuji_D2_45M_en_US_1x._CB418309979_.jpg",
+    "linkTitle": "See more"
+  },
+  {
+    "title": "Electronics",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg",
+    "linkTitle": "See more"
+  },
+  {
+    "title": "Get fit at home",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/events/GFAH/GWDesktop_SingleImageCard_fitathome_1x._SY304_CB434924743_.jpg",
+    "linkTitle": "Explore now"
+  },
+
+  {
+    "title": "Early Black Friday deals",
+    "cardImages": [{
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/ShoulderPeriod/GW/QuadCard/DT/SP22_W2_Kitchen_GW_QuadCard_DT_1x._SY116_CB606308915_.jpg",
+        "subtitle": "Kitchen"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/ShoulderPeriod/GW/QuadCard/DT/SP22_W2_ComputersAndAccessories_GW_QuadCard_DT_1x._SY116_CB606308915_.jpg",
+        "subtitle": "Computers & more"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/ShoulderPeriod/GW/QuadCard/DT/SP22_W2_HealthAndPersonalCare_GW_QuadCard_DT_1x._SY116_CB606308915_.jpg",
+        "subtitle": "Personal Care"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/ShoulderPeriod/GW/QuadCard/DT/SP22_W2_HomeImprovement_GW_QuadCard_DT_1x._SY116_CB606308915_.jpg",
+        "subtitle": "Home Improvement"
+      }
+    ],
+    "linkTitle": "See more"
+  },
+
+  {
+    "title": "Easy returns",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Returns_1x._SY304_CB432774714_.jpg",
+    "linkTitle": "Learn more"
+  },
+
+  {
+    "title": "Create with strip lights",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_SmartWatch_1X._SY304_CB639922137_.jpg",
+    "linkTitle": "Shop now"
+  },
+
+  {
+    "title": "Shop activity trackers",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_StripLighting_379x304_1X_en_US._SY304_CB418597476_.jpg",
+    "linkTitle": "Shop now"
+  },
+
+  {
+    "title": "Shop Laptops & Tablets",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Laptops_379x304_1X_en_US._SY304_CB418608471_.jpg",
+    "linkTitle": "See more"
+  },
+
+  {
+    "title": "Gifts for every stocking",
+    "cardImages": [{
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/StockingStuffers/GW/QuadCard/DT/HOL22_SS_GW_QuadCard_ShopAll_DT_1x._SY116_CB606650457_.jpg",
+        "subtitle": "Shop all"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/StockingStuffers/GW/QuadCard/DT/HOL22_SS_GW_QuadCard_Under30_DT_1x._SY116_CB606650457_.jpg",
+        "subtitle": "Under $30"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/StockingStuffers/GW/QuadCard/DT/HOL22_SS_GW_QuadCard_Under20_DT_1x._SY116_CB606650457_.jpg",
+        "subtitle": "Under $20"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/StockingStuffers/GW/QuadCard/DT/HOL22_SS_GW_QuadCard_Under10_DT_1x._SY116_CB606650457_.jpg",
+        "subtitle": "Under $10"
+      }
+    ],
+    "linkTitle": "Shop Stocking Stuffers"
+  },
+
+  {
+    "title": "New arrivals in Toys",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Toys_1X._SY304_CB639759658_.jpg",
+    "linkTitle": "Shop now"
+  },
+
+  {
+    "title": "Early Black Friday deals",
+    "cardImages": [{
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/ShoulderPeriod/GW/QuadCard/DT/SP22_W2_Kitchen_GW_QuadCard_DT_1x._SY116_CB606308915_.jpg",
+        "subtitle": "Kitchen"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/ShoulderPeriod/GW/QuadCard/DT/SP22_W2_ComputersAndAccessories_GW_QuadCard_DT_1x._SY116_CB606308915_.jpg",
+        "subtitle": "Computers & more"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/ShoulderPeriod/GW/QuadCard/DT/SP22_W2_HealthAndPersonalCare_GW_QuadCard_DT_1x._SY116_CB606308915_.jpg",
+        "subtitle": "Personal Care"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/ShoulderPeriod/GW/QuadCard/DT/SP22_W2_HomeImprovement_GW_QuadCard_DT_1x._SY116_CB606308915_.jpg",
+        "subtitle": "Home Improvement"
+      }
+    ],
+    "linkTitle": "Shop all deals "
+  },
+
+  {
+    "title": "Shop Pet supplies",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Pets_1X._SY304_CB639746743_.jpg",
+    "linkTitle": "See more"
+  },
+
+  {
+    "title": "For your Fitness Needs",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Fitness_1X._SY304_CB639748186_.jpg",
+    "linkTitle": "Shop now"
+  },
+  {
+    "title": "Gaming merchandise",
+    "cardImages": [{
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Apparel_1x._SY116_CB667159060_.jpg",
+        "subtitle": "Apparel"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Hat_1x._SY116_CB667159060_.jpg",
+        "subtitle": "Hats"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Figure_1x._SY116_CB667159060_.jpg",
+        "subtitle": "Action figures"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mug_1x._SY116_CB667159063_.jpg",
+        "subtitle": "Mugs"
+      }
+    ],
+    "linkTitle": "See more"
+  },
+
+  {
+    "title": "Deals in Tools and Home",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/home/THILGMA/Holiday2022/Graphics/XCM_CUTTLE_1475305_2610205_379x304_1X_en_US._SY304_CB608600856_.jpg",
+    "linkTitle": "Shop now"
+  },
+
+  {
+    "title": "Kindle E readers",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Desktop_Dash_Kindle_1x._SY304_CB639752818_.jpg",
+    "linkTitle": "Shop now"
+  },
+  {
+    "title": "A holiday home starts here",
+    "cardImages": [{
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/home/kariep/T522/Decor1-186x116._SY116_CB607560774_.jpg",
+        "subtitle": "Decor"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/home/kariep/T522/Kitchen1-186x116._SY116_CB607560774_.jpg",
+        "subtitle": "Kitchen"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/home/kariep/T522/Entertaining-186x116._SY116_CB607560774_.jpg",
+        "subtitle": "Entertaining"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/home/kariep/T522/Bedding-186x116._SY116_CB607560774_.jpg",
+        "subtitle": "Bedding & Bath"
+      }
+    ],
+    "linkTitle": "Shop Home Holiday Prep"
+  }
+]

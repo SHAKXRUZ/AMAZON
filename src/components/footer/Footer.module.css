@@ -1,0 +1,190 @@
+.footer {
+    width: 100%;
+}
+
+.footer__back_top {
+    width: 100%;
+    background-color: #37475A;
+    cursor: pointer;
+}
+
+.navbar__footer_back_to_top {
+    display: block;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 15px 0px;
+    line-height: 19px;
+    font-size: 13px;
+}
+
+.navbar__footer_back_to_top:hover {
+    background-color: #445468;
+}
+
+
+
+/* footer text content qismi */
+.footer_content {
+    width: 100%;
+    height: auto;
+    background-color: #232F3E;
+}
+
+.footer__text_content {
+    max-width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    padding: 50px 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: space-between;
+    gap: 55px;
+}
+
+
+.footer__content__card {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+
+.footer__content__card__title {
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.footer__content__text {
+    font-size: 14px;
+    color: #DDDDDD;
+}
+
+.footer__content__text:hover {
+    text-decoration: underline;
+}
+
+.footer__text_content_media_div {
+    display: none;
+}
+
+.footer__media_ul {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer__text_media_text {
+    color: rgb(232, 230, 230);
+    cursor: pointer;
+}
+
+
+.footer__footer_content_group {
+    width: 100%;
+    background-color: #232F3E;
+    height: 150px;
+    border-top: 1px solid #445468;
+}
+
+.footer__footer_logo_btn_group {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+}
+
+.footer_logo {
+    width: 100px;
+    cursor: pointer;
+}
+
+.footer__btn_group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.footer_btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border: 1px solid #848688;
+    border-radius: 3px;
+    padding: 6px 30px 6px 8px;
+    font-size: 13px;
+    margin-right: 4px;
+    background: none;
+    cursor: pointer;
+}
+
+.usd_text {
+    font-size: 15px;
+    color: #c3c4c7;
+}
+
+.usa_flags {
+    width: 20px;
+}
+
+.usd {
+    color: white;
+}
+
+@media only screen and (max-width:1100px) {
+    .footer__text_content {
+        width: 100%;
+        padding: 50px 20px 50px 20px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .footer__text_content {
+        display: none;
+    }
+
+    .footer__text_content_media_div {
+        display: flex;
+        padding: 50px 20px;
+        gap: 40%;
+    }
+}
+
+@media only screen and (max-width:700px) {
+    .footer__text_content_media_div {
+        gap: auto;
+    }
+
+    .footer__footer_logo_btn_group {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+}
+
+@media only screen and (max-width:520px) {
+    .footer__btn_group {
+        flex-wrap: wrap;
+        gap: 20px;
+        padding: 10px 20px;
+    }
+
+    .footer_logo {
+        padding-top: 20px;
+    }
+
+    .footer__footer_content_group {
+        height: auto;
+    }
+}
+
+@media only screen and (max-width:400px) {
+
+    .footer__text_content_media_div {
+        display: block;
+        justify-content: center;
+        text-align: center;
+    }
+}

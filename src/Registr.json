@@ -1,0 +1,44 @@
+[{
+    "gift": [{
+            "img": "https://m.media-amazon.com/images/G/01/img18/home/customgiftlist/icon_Celebrate.svg",
+            "title": "Celebrate any milestone",
+            "text": "Add items from Amazon to create a gift registry for any occasion."
+        },
+        {
+            "img": "https://m.media-amazon.com/images/G/01/img18/home/customgiftlist/icon_Share.svg",
+            "title": "Easy to share",
+            "text": "Share your Gift lists with friends and family so they'll know exactly what gifts to get."
+        },
+        {
+            "img": "https://m.media-amazon.com/images/G/01/img18/home/customgiftlist/icon_Return.svg",
+            "title": "Extended returns",
+            "text": "Gift not quite right? Gift registry purchases have an extended return period."
+        },
+        {
+            "img": "https://m.media-amazon.com/images/G/01/img18/home/customgiftlist/icon_Thank_you.svg",
+            "title": "Thank you list",
+            "text": "We keep track of who bought what gift and when, so it's easy for you to send thank you notes."
+        }
+    ],
+    "list": [{
+            "images": "https://m.media-amazon.com/images/G/01/img18/home/2021/Gift_List_Registry/gift/wedding_registry_238x238.jpg",
+            "text": "I'm getting married"
+        },
+        {
+            "images": "https://m.media-amazon.com/images/G/01/baby/registry/v2/dsk/homepage/Babysquare.jpg",
+            "text": "I'm welcoming a baby"
+        },
+        {
+            "images": "https://m.media-amazon.com/images/G/01/img18/home/2021/Gift_List_Registry/gift/birthday_gift_238x238.jpg",
+            "text": "Celebrating a child's birthday"
+        },
+        {
+            "images": "https://m.media-amazon.com/images/G/01/img18/home/2021/Gift_List_Registry/gift/Holiday_238x238-2.jpg",
+            "text": "Preparing for the Winter holidays"
+        },
+        {
+            "images": "https://m.media-amazon.com/images/G/01/img18/home/2021/Gift_List_Registry/gift/custom_gift_238x238.jpg",
+            "text": "Celebrating a different occasion"
+        }
+    ]
+}]
